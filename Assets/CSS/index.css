@@ -144,6 +144,9 @@ h1 {
 body {
     background-color: var(--bg-color) ;
     padding: 20px;
+    width: 350px;
+    height: 800px;
+
 }
 
 /*Container*/
@@ -151,21 +154,21 @@ body {
     background-color: var(--bg-color-2);
     width: 350px;
     border-radius: 20px;
-    height: 755px;
+    height: 800px;
 }
 
 /*The Image div*/
 .img {
     width: 350px;
-    height: 280px;
+    height: 330px;
 }
 
 /*Main Image*/
 #img {
     width:350px ;
-    height: 280px;
-    border-top-left-radius: 20px;
-    border-top-right-radius: 20px;
+    height: 330px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
     border-bottom-left-radius: 0px;
 }
 /*Main Content*/
