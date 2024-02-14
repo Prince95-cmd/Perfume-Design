@@ -43,6 +43,7 @@ body {
     width: 280px;
     height: 430px;
     padding: 10px;
+
 }
 
 
@@ -100,7 +101,8 @@ h1 {
     font-size:13px ;
     margin-top: 36px;
     margin-left: -25px;
-    text-decoration: line-through;font-family: 'Fraunces', serif;
+    text-decoration: line-through;
+    font-family: 'Fraunces', serif;
 }
 
 /*  Button*/
@@ -129,7 +131,7 @@ h1 {
     margin-right: 15px;
  }
 
-@media screen and (max-width: 375px){
+@media screen and (max-width: 350px){
     /*General*/
 :root {
     --bg-color: hsl(30, 38%, 92%);
@@ -155,6 +157,7 @@ body {
     width: 350px;
     border-radius: 20px;
     height: 800px;
+    margin: 10px 0;
 }
 
 /*The Image div*/
@@ -212,7 +215,8 @@ h1 {
     font-size:13px ;
     margin-top: 45px;
     margin-left: -25px;
-    text-decoration: line-through;font-family: 'Fraunces', serif;
+    text-decoration: line-through;
+    font-family: 'Fraunces', serif;
 }
 
 
