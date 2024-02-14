@@ -131,7 +131,7 @@ h1 {
     margin-right: 15px;
  }
 
-@media screen and (max-width: 350px){
+@media screen and (max-width: 355px){
     /*General*/
 :root {
     --bg-color: hsl(30, 38%, 92%);
@@ -157,7 +157,7 @@ body {
     width: 350px;
     border-radius: 20px;
     height: 800px;
-    margin: 10px 0;
+    margin: 10px auto;
 }
 
 /*The Image div*/
